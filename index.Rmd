@@ -1,0 +1,10 @@
+---
+title: "Manajemen Keuangan"
+site: distill::distill_website
+---
+
+### Kode Mata Kuliah: PAGR2427
+
+### SKS/Pertemuan: 3/16
+
+### Dosen: [Tedy Herlambang](https://bangtedy.github.io)
