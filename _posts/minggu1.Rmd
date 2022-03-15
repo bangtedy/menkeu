@@ -1,18 +1,146 @@
 ---
-title: "Pasar Modal, Manajemen Keuangan dan Manajemen Investasi"
+title: "Keuangan dan Manajemen Keuangan"
 description: |
   Materi Minggu 1
 author:
   - name: Tedy Herlambang 
     url: https://bangtedy.github.io/
-    affiliation: Prodi Agribisnis
-    affiliation_url: https://fp.upm.ac.id
+    affiliation: UPM
+    orcid_id: 0000-0002-7296-4357
 date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
     self_contained: false
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+### TUJUAN PEMBELAJARAN
+
+Setelah mempelajari bab ini, Mahasiswa diharapkan dapat:
+
+1. Mendifinisikan keuangan dan menjelaskan tiga area utama di dalam keuangan.
+2. Menjelaskan pentingnya mempelajari keuangan bagi seorang manajer agribisnis.
+3. Menjelaskan dan mendiskusikan prinsip-prinsip keuangan.
+4. Mengidentifikasi komponen sistem keuangan dan menjelaskan peran masing-masing.
+5. Menjelaskan karakteristik pasar keuangan dan jenis pasar keuangan.
+
+
+### Apakah Keuangan itu?^[Materi disini hanya poin-poin saja. Mahasiswa harus tetap mempelajari juga buku rujukan] 
+
+#### Berikut beberapa **definisi** keuangan (coba perhatikan kesamaan/inti dari beberapa definisi ini):
+
+* **Keuangan** adalah penerapan prinsip-prinsip ekonomi dalam pembuatan keputusan yang melibatkan 'pengalokasian' uang dalam kondisi ketidakpastian. 
+
+* **Keuangan** adalah kajian tentang bagaimana individu-individu, lembaga, pemerintah dan bisnis memperoleh, membelanjakan dan mengelola uang dan aset-aset keuangan lainnya. 
+
+* **Keuangan** menyediakan kerangka kerja untuk membuat keputusan tentang bagaimana mendapatkan dana dan apa yang harus dilakukan dengan dana tersebut setelah diperoleh. 
+
+* **Keuangan** adalah kajian tentang konsep-konsep, penerapan dan sistem yang mempengaruhi nilai (atau kekayaan) seorang individu, perusahaan dan negara dalam jangka pendek dan jangka panjang. Kajian bisa dilakukan secara kualitatif dan kuantitatif.
+
+### Jadi Keuangan itu apa?
+
+* Penggunaan konsep, alat, metode untuk membuat keputusan-keputusan keuangan.
+* Keputusan-keputusan keuangan tersebut dilakukan bisa dalam lingkup individu, bisnis, ataupun pemerintah.
+* Jangka pendek dan jangka panjang
+* Kuantitatif dan kualitatif
+
+### Manajemen Keuangan^[Fokus di matkul ini keputusan keuangan di perusahaan]
+
+* *Manajemen* keuangan menyangkut kegiatan perencanaan, analisis, dan
+pengendalian kegiatan keuangan
+* Manajemen keuangan dapat dikelompokkan menjadi dua kegiatan utama:
+
+  * Mencari dana --> dari pasar keuangan
+  * Menggunakan dana --> untuk investasi dan operasi perusahaan.
+
+### Perolehan Dana
+
+* Perusahaan menerbitkan aktiva finansial (yaitu selembar kertas yang mempunyai nilai pasar karena mempunyai hak untuk memperoleh penghasilan, seperti saham dan obligasi)
+
+* Laba yang diperoleh perlu diputuskan untuk dikembalikan ke pemilik dana (pasar keuangan),atau diinvestasikan kembali ke perusahaan. 
+
+### Jenis-Jenis Pasar keuangan:
+
+  * Pasar uang atau money market (untuk dana jangka pendek, kurang dari 1 tahun)
+  * Pasar modal atau capital market (dana jangka panjang).
+  * Sektor formal: perbankan, asuransi, bursa efek, sewa guna.
+  * Sektor informal: arisan, rentenir, ijon, kumpulan simpan pinjam.
+
+#### Diskusi: 
+
+* Perusahaan-perusahaan besar biasanya sering berhubungan dengan lembaga keuangan di sektor formal --> benarkah?
+* Sebaliknya perusahaan kecil dan juga sektor informal, banyak berhubungan dengan lembaga di sektor informal --> Benarkah? Mengapa demikian?
+
+### Penggunaan Dana
+
+1. Dana yang diperoleh dapat diinvestasikan pada berbagai aktiva (aset) perusahaan: seperti tanah, mesin, persediaan, merek dagang, patent --> mengharapkan untuk memperoleh hasil yang lebih besar dari pengorbanannya. 
+2. Untuk mendanai kegiatan perusahaan.
+
+### Tujuan Keuangan
+
+* Perusahaan *eksis* untuk menghasilkan barang dan memberikan layanan --> menciptakan nilai (*value*) --> memaksimumkan nilai operasinya (tujuan umum).
+* Tujuan lain: mendapatkan pangsa pasar, memberikan layanan prima pada pelanggan, menjadi pemimpin pasar, membangun brand, memperkenalkan produk baru, mensejahterakan karyawan dan mendukung kemajuan masyarakat sekitar...apa lagi?
+* Tujuan-tujuan itu dapat dicapai salah satunya dengan cara memaksimalkan profit, mengelola likuiditas dan solvabilitas, dan mengelola risiko finansial dan operasi secara tepat. 
+
+### Maksimisasi Profit
+
+* Maksimisasi profit dengan tetap mematuhi batasan-batasan sosial, legal dan regulasi yang ada.
+* Dengan sistem persaingan bebas (*a laissez faire system*), perusahaan bebas memproduksi barang/jasa dan konsumen memilih barang/jasa yang disukai.
+
+### Bagaimana perusahaan meningkatkan kekayaannya dan semakin dominan di pasar?
+
+* Meningkatkan profitnya= pendapatan - pengeluaran
+* Perusahaan yang pendapatannya lebih besar lebih "bernilai" dibanding yang pendapatannya lebih kecil, *ceteris paribus*.
+* Jika ini bisa dipertahankan dalam jangka panjang --> perusahaan itu akan semakin kuat dan dominan.
+
+Diskusi:
+
+* Siapa pemimpin pasar untuk *hape* di Indonesia? Mengapa bisa demikian (lihat dari sisi rumus profit di atas)
+* Bagaimana dengan produk Agribisnis siapa pemain utama di Indonesia (Coba lihat produk makanan/minuman segar atau olahan atau dilihat dari hulu berhubungan dengan sarana produksi pupuk,benih, obat-obatan sampai ke hilir/ritel).
+
+## Perusahan PIMAGRI
+
+* Perusahan bergerak di bidang Agribisnis.
+* Untuk memproduksi barang: dibutuhkan karyawan, bahan mentah, pabrik dan mesin-mesin (yang nilainya menyusut seiring waktu).
+* Mesin-mesin dibeli dari pinjaman bank
+* Aset perusahaan lain ditabung di bank
+* Pendapatan perusahaan dari menjual barang yang diproduksi digunakan untuk membeli bahan mentah, membayar pinjam pokok dan bunganya dan membayar gaji karyawan, sewa kantor dan membayar pajak.
+* Sisa pendapatan diinvestasikan lagi
+
+### Dari contoh di atas bagaimana perusahaan memaksimumkan profitnya?
+
+* Membeli bahan mentah dari pemasok langganan atau langsung dari petani atau impor?
+* Membeli sendiri-sendiri mesin-mesin atau *leasing* saja?
+* Mendepresiasi mesin-mesin dengan accelerated basis atau straight-line basis?
+* Memimjam dana dari bank pemerintah atau bank swasta?
+* Menyimpan aset perusahaan dalam bentuk tabungan atau sekuritas jangka panjang?
+* Dan lain-lain.
+
+### Kita tidak bisa langsung menjawab, tergantung:
+
+* Lingkungan operasi perusahaan
+* Struktur persaingan pasar
+* Struktur keuangan
+--> Anda perlu memahami konsep dan alat keuangan untuk menganalisisnya!!!
+
+#### Maksimisasi Profit bisa dicapai dengan mengelola **Likuiditas dan Solvency**
+
+* Likuiditas: Kecukupan kas
+* Solvency: Kecukupan kapital
+
+### Pengelolaan Risiko
+
+* Ketidakpastian atau variabilitas yang meliputi kejadian di masa yang akan datang.
+* Jika mengambil risiko yang terlalu besar: menderita kerugian, tekanan keuangan, gagal
+* Jika mengambil risiko yang terlalu kecil: ketinggalan peluang
+
+### Sumber-sumber risiko
+
+* Risiko operasi
+* Risiko legal
+* Risiko lingkungan
+* Risiko keuangan

@@ -6,6 +6,8 @@ title: "Manajemen Keuangan"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### Deskripsi Mata Kuliah
+
 Mata kuliah ini memperkenalkan kepada mahasiswa tentang konsep-konsep, alat, metode dan strategi di dalam keuangan tanpa masuk terlalu jauh ke dalam teori. Topik-topik pembahasan meliputi instrumen pasar dan keuangan, manajemen portofolio, analisis laporan keuangan, valuasi aset, analisis aliran kas, penganggaran modal serta strategi, perencanaan dan kebijakan keuangan korporat.  
 
 ### Tujuan Pembelajaran
@@ -17,7 +19,7 @@ Setelah mengikuti perkuliahan ini, secara mahasiswa diharapkan dapat memahami pa
 Perkuliahan dilakukan sebanyak 14 kali pertemuan dan 2 kali pertemuan untuk
 ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik yang akan dibahas sebagai berikut:
 
-* Minggu 1 Pendahuluan: Pasar Modal, Manajemen Keuangan dan Manajemen Investasi
+* Minggu 1 Keuangan dan Manajemen Keuangan
 * Minggu 2 Instrumen, Pasar dan Penyelia Keuangan
 * Minggu 3 Sistem Keuangan
 * Minggu 4 Laporan Keuangan

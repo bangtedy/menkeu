@@ -3,6 +3,7 @@ title: "Manajemen Keuangan"
 include: [".nojekyll"]
 base_url: https://bangtedy.github.io/menkeu/
 repository_url: https://github.com/bangtedy/menkeu
+creative_commons: CC BY
 description: |
   Materi Mata Kuliah Manajemen Keuangan
 output_dir: "docs"
@@ -11,11 +12,17 @@ twitter:
   creator: "@t_hlb"
 collections:
   posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
     share: [facebook, twitter, linkedin]
-    feed_items_max: false
+    feed_items_max: 20 # default
   galeri:
+    categories: true
+    categories_metadata: false
+    authors_metadata: false
     share: [facebook, twitter, linkedin]
-    feed_items_max: false
+    feed_items_max: 20 # default
 navbar:
   right:
     - text: "Home"
