@@ -6,6 +6,12 @@ title: "Manajemen Keuangan"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### Kode Mata Kuliah: PAGR2427
+
+### SKS/Pertemuan: 3/16
+
+### Dosen: [Tedy Herlambang](https://bangtedy.github.io)
+
 ### Deskripsi Mata Kuliah
 
 Mata kuliah ini memperkenalkan kepada mahasiswa tentang konsep-konsep, alat, metode dan strategi di dalam keuangan tanpa masuk terlalu jauh ke dalam teori. Topik-topik pembahasan meliputi instrumen pasar dan keuangan, manajemen portofolio, analisis laporan keuangan, valuasi aset, analisis aliran kas, penganggaran modal serta strategi, perencanaan dan kebijakan keuangan korporat.  
