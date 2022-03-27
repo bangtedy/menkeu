@@ -1,7 +1,7 @@
 ---
 title: "Keuangan dan Manajemen Keuangan"
 description: |
-  
+  Sekilas Keuangan dan Manajemen Keuangan
 author: 
   - name: Tedy Herlambang
     url: https://bangtedy.github.io
@@ -19,7 +19,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## CAPAIAN PEMBELAJARAN
+### CAPAIAN PEMBELAJARAN
 
 Setelah mempelajari bab ini, Mahasiswa seharusnya dapat:
 
@@ -31,7 +31,7 @@ Setelah mempelajari bab ini, Mahasiswa seharusnya dapat:
 
 ---
 
-## Apakah Keuangan itu?
+### Apakah Keuangan itu?
 
 
 * **Keuangan** adalah penerapan prinsip-prinsip ekonomi dalam pembuatan keputusan yang melibatkan 'pengalokasian' uang dalam kondisi ketidakpastian. 
@@ -44,7 +44,7 @@ Setelah mempelajari bab ini, Mahasiswa seharusnya dapat:
 
 ---
 
-## Jadi Keuangan itu apa?
+### Jadi Keuangan itu apa?
 
 * Penggunaan konsep, alat, metode untuk membuat keputusan-keputusan keuangan.
 * Keputusan-keputusan keuangan tersebut dilakukan bisa dalam lingkup individu, bisnis, ataupun pemerintah.
@@ -53,7 +53,7 @@ Setelah mempelajari bab ini, Mahasiswa seharusnya dapat:
 
 ---
 
-## Manajemen Keuangan
+### Manajemen Keuangan
 
 * *Manajemen* keuangan menyangkut kegiatan perencanaan, analisis, dan
 pengendalian kegiatan keuangan
@@ -64,7 +64,7 @@ pengendalian kegiatan keuangan
 
 ---
 
-## Perolehan Dana
+### Perolehan Dana
 
 * Perusahaan menerbitkan aktiva finansial (yaitu selembar kertas yang mempunyai nilai pasar karena mempunyai hak untuk memperoleh penghasilan, seperti saham dan obligasi)
 
@@ -72,7 +72,7 @@ pengendalian kegiatan keuangan
 
 ---
 
-## Jenis-Jenis Pasar keuangan:
+### Jenis-Jenis Pasar keuangan:
 
   * Pasar uang atau money market (untuk dana jangka pendek, kurang dari 1 tahun)
   * Pasar modal atau capital market (dana jangka panjang).
@@ -81,21 +81,21 @@ pengendalian kegiatan keuangan
   
 ---
 
-## Diskusi: 
+### Diskusi: 
 
 * Perusahaan-perusahaan besar biasanya sering berhubungan dengan lembaga keuangan di sektor formal --> benarkah?
 * Sebaliknya perusahaan kecil dan juga sektor informal, banyak berhubungan dengan lembaga di sektor informal --> Benarkah? Mengapa demikian?
 
 ---
 
-## Penggunaan Dana
+### Penggunaan Dana
 
 1. Dana yang diperoleh dapat diinvestasikan pada berbagai aktiva (aset) perusahaan: seperti tanah, mesin, persediaan, merek dagang, patent --> mengharapkan untuk memperoleh hasil yang lebih besar dari pengorbanannya. 
 2. Untuk mendanai kegiatan perusahaan.
 
 ---
 
-## Tujuan Keuangan
+### Tujuan Keuangan
 
 * Perusahaan *eksis* untuk menghasilkan barang dan memberikan layanan --> menciptakan nilai (*value*) --> memaksimumkan nilai operasinya (tujuan umum).
 * Tujuan lain: mendapatkan pangsa pasar, memberikan layanan prima pada pelanggan, menjadi pemimpin pasar, membangun brand, memperkenalkan produk baru, mensejahterakan karyawan dan mendukung kemajuan masyarakat sekitar...apa lagi?
@@ -103,14 +103,14 @@ pengendalian kegiatan keuangan
 
 ---
 
-## Maksimisasi Profit
+### Maksimisasi Profit
 
 * Maksimisasi profit dengan tetap mematuhi batasan-batasan sosial, legal dan regulasi yang ada.
 * Dengan sistem persaingan bebas (*a laissez faire system*), perusahaan bebas memproduksi barang/jasa dan konsumen memilih barang/jasa yang disukai.
 
 ---
 
-## Bagaimana perusahaan meningkatkan kekayaannya dan semakin dominan di pasar?
+### Bagaimana perusahaan meningkatkan kekayaannya dan semakin dominan di pasar?
 
 * Meningkatkan profitnya= pendapatan - pengeluaran
 * Perusahaan yang pendapatannya lebih besar lebih "bernilai" dibanding yang pendapatannya lebih kecil, *ceteris paribus*.
@@ -123,7 +123,7 @@ Diskusi:
 
 ---
 
-## Perusahan PIMAGRI
+### Perusahan PIMAGRI
 
 * Perusahan bergerak di bidang Agribisnis.
 * Untuk memproduksi barang: dibutuhkan karyawan, bahan mentah, pabrik dan mesin-mesin (yang nilainya menyusut seiring waktu).
@@ -134,7 +134,7 @@ Diskusi:
 
 ---
 
-## Dari contoh di atas bagaimana perusahaan memaksimumkan profitnya?
+### Dari contoh di atas bagaimana perusahaan memaksimumkan profitnya?
 
 * Membeli bahan mentah dari pemasok langganan atau langsung dari petani atau impor?
 * Membeli sendiri-sendiri mesin-mesin atau *leasing* saja?
@@ -145,7 +145,7 @@ Diskusi:
 
 ---
 
-## Kita tidak bisa langsung menjawab, tergantung:
+### Kita tidak bisa langsung menjawab, tergantung:
 
 * Lingkungan operasi perusahaan
 * Struktur persaingan pasar
@@ -154,14 +154,14 @@ Diskusi:
 
 ---
 
-## Maksimisasi Profit bisa dicapai dengan mengelola likuiditas dan solvency
+### Maksimisasi Profit bisa dicapai dengan mengelola likuiditas dan solvency
 
 * Likuiditas: Kecukupan kas
 * Solvency: Kecukupan kapital
 
 ---
 
-## Pengelolaan Risiko
+### Pengelolaan Risiko
 
 * Ketidakpastian atau variabilitas yang meliputi kejadian di masa yang akan datang.
 * Jika mengambil risiko yang terlalu besar: menderita kerugian, tekanan keuangan, gagal
@@ -169,7 +169,7 @@ Diskusi:
 
 ---
 
-## Sumber-sumber risiko
+### Sumber-sumber risiko
 
 * Risiko operasi
 * Risiko legal

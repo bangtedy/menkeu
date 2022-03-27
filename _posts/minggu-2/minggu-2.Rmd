@@ -1,7 +1,7 @@
 ---
 title: "Perusahaan dan Pasar Keuangan"
 description: |
-  
+  Struktur dan Fungsi Pasar Keuangan
 author: 
   - name: Tedy Herlambang
     url: https://bangtedy.github.io
@@ -20,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Capaian Pembelajaran
+### Capaian Pembelajaran
 
 Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
@@ -32,7 +32,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Empat Pemain dalam Pasar Keuangan
+### Empat Pemain dalam Pasar Keuangan
 
 - Pengutang/peminjam/*borrowers*: mereka yang memerlukan dana untuk usaha mereka.
 - Penabung/investor/savers: mereka yang punya dana untuk investasi. 
@@ -41,7 +41,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Lembaga Keuangan
+### Lembaga Keuangan
 
 - Bank komersial, 
 - Perusahaan keuangan, 
@@ -53,7 +53,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Pasar Keuangan: 
+### Pasar Keuangan: 
 
 --> Atas dasar waktu jatuh tempo sekuritas yang diperdagangkan
 
@@ -63,7 +63,8 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Bank Komersial 
+### Bank Komersial 
+
 - Menghimpun dana tabungan dari para individual dan dunia usaha
 - Meminjamkan uang yang terhimpun tersebut kepada pihak lain (individu dan perusahaan). 
 - Bank mendapatkan uang dari selisih beban bunga peminjam yang lebih tinggi dari tingkat bunga penabung.
@@ -72,7 +73,8 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Lembaga Keuangan Nonbank
+### Lembaga Keuangan Nonbank
+
 - Perusahaan jasa keuangan
 - Perusahaan asuransi
 - Bank investasi
@@ -80,18 +82,18 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Perusahaan Jasa Keuangan
+#### Perusahaan Jasa Keuangan
 
 - Bergerak di bidang usaha peminjaman atau pendanaan, tetapi mereka bukanlah bank komersial
 - Contoh: 
 
-## Perusahan Asuransi 
+#### Perusahan Asuransi 
 
 - Menjual polis asuransi kepada individu dan dunia usaha untuk melindungi investasi mereka.
 - Menghimpun premi dan menahan premi tersebut dalam suatu cadangan (reserve) hingga terjadinya kerugian yang dipertanggungkan dan mereka akan membayar klaim kepada pemegang kontrak asuransi. 
 - Cadangan ini dikelola ke dalam berbagai jenis investasi termasuk pinjaman kepada individu dan perusahaan.
 
-## Investment Bank
+#### Investment Bank
 
 - Perantara keuangan khusus yang membantu perusahaan dan pemerintah dalam memperoleh uang
 - Konsultasi kepada perusahaan ketika hendak masuk ke dalam transaksi besar seperti mergers.
@@ -99,13 +101,13 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Mutual Funds and Exchange Traded Funds (ETFs)
+### Mutual Funds and Exchange Traded Funds (ETFs)
 
 - Mutual funds atau Reksa Dana dikelola secara profesional sesuai dengan tujuan investasi yang ditetapkan.
 - Exchange-traded fund (ETF) mirip dengan mutual fund kecuali kepemilikan lembar ETF dapat diperjualbelikan di pasar saham.
 - Sebagian besar ETF membentuk suatu indeks harga, seperti S&P 500.
 
-## Reksa Dana dan ETF
+### Reksa Dana dan ETF
 
 - Efektif untuk mendiversifikasi dan mengurangi risiko
 - Dengan membeli suatu Reksa Dana atau ETF yang diinvestasikan ke dalam S&P 500, 
@@ -113,12 +115,12 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Sekuritas
+### Sekuritas
 
 - Suatu instrumen yang dapat dinegosiasi yang merepresentasikan suatu klaim keuangan. - Bentuknya bisa berupa saham atau instrumen utang.
 - Pasar sekuritas mempertemukan para investor dunia usaha dan individu untuk memperdagangkan sekuritas yang diterbitkan oleh perusahaan publik.
 
-## Pasar Perdana dan Pasar Sekunder
+#### Pasar Perdana dan Pasar Sekunder
 
 - **Pasar perdana**: suatu pasar dimana sekuritas diperjualbelikan untuk pertama kalinya. 
   - Perusahaan yang menjual sekuritas mendapatkan sejumlah uang.
@@ -128,7 +130,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Jenis-jenis sekuritas
+### Jenis-jenis sekuritas
 
 - Sekuritas utang: perusahaan meminjam uang dengan cara menjual sekuritas utang di pasar utang (debt market). 
 - Utang diklasifikasikan berdasarkan periode jatuh tempo: 
@@ -143,7 +145,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Pasar Saham
+### Pasar Saham
 
 - Pasar saham adalah pasar publik dimana saham-saham perusahaan diperdagangkan.
 
@@ -155,7 +157,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 
 ---
 
-## Bursa-Bursa Saham di Dunia
+### Bursa-Bursa Saham di Dunia
 
 - Shanghai Stock Exchange (SSE)
 - Tokyo Stock Exchange (TSE)
@@ -164,7 +166,7 @@ Setelah mempelajari materi ini, mahasiswa diharapkan dapat:
 - BSE (Bombay Stock Exchange)
 - dll
 
-## Data Keuangan di Ujung Jari
+#### Data Keuangan di Ujung Jari
 
 - Coba kunjungi situs https://finance.yahoo.com
 - Coba masukkan di pojok kanan (tulisan Quote Lookup) perusahaan agribisnis yang menarik perhatian Anda!
