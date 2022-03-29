@@ -2,8 +2,15 @@ name: "source-for-distill"
 title: "Manajemen Keuangan"
 description: |
   Silabus dan Materi Manajemen Keuangan
+base_url: https://bangtedy.github.io/menkeu
 output_dir: "docs"
+
+collections:
+  posts:
+    share: [twitter, linkedin, facebook]
+    
 theme: theme.css
+
 twitter:
   creator: "@t_hlb"
 repository_url: https://github.com/bangtedy/menkeu
