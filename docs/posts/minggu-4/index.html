@@ -134,7 +134,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["minggu-4_files/anchor-4.2.2/anchor.min.js","minggu-4_files/bowser-1.9.3/bowser.min.js","minggu-4_files/distill-2.2.21/template.v2.js","minggu-4_files/header-attrs-2.13/header-attrs.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.min.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.min.map","minggu-4_files/kePrint-0.0.1/kePrint.js","minggu-4_files/lightable-0.0.1/lightable.css","minggu-4_files/popper-2.6.0/popper.min.js","minggu-4_files/tippy-6.2.7/tippy-bundle.umd.min.js","minggu-4_files/tippy-6.2.7/tippy-light-border.css","minggu-4_files/tippy-6.2.7/tippy.css","minggu-4_files/tippy-6.2.7/tippy.umd.min.js","minggu-4_files/webcomponents-2.0.0/webcomponents.js","pertanyaan-rasio-keuangan.png","pertanyaan-rasio.txt","rasio-efisiensi-aset.png","rasio-likuiditas.png","rasio-nilai-pasar.png","rasio-profitabilitas.png","rasio-struktur-kapital.png"]}
+  {"type":"character","attributes":{},"value":["4ratio.xlsx","minggu-4_files/anchor-4.2.2/anchor.min.js","minggu-4_files/bowser-1.9.3/bowser.min.js","minggu-4_files/distill-2.2.21/template.v2.js","minggu-4_files/header-attrs-2.13/header-attrs.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.min.js","minggu-4_files/jquery-3.6.0/jquery-3.6.0.min.map","minggu-4_files/kePrint-0.0.1/kePrint.js","minggu-4_files/lightable-0.0.1/lightable.css","minggu-4_files/popper-2.6.0/popper.min.js","minggu-4_files/tippy-6.2.7/tippy-bundle.umd.min.js","minggu-4_files/tippy-6.2.7/tippy-light-border.css","minggu-4_files/tippy-6.2.7/tippy.css","minggu-4_files/tippy-6.2.7/tippy.umd.min.js","minggu-4_files/webcomponents-2.0.0/webcomponents.js","pertanyaan-rasio-keuangan.png","pertanyaan-rasio.txt","rasio-efisiensi-aset.png","rasio-likuiditas.png","rasio-nilai-pasar.png","rasio-profitabilitas.png","rasio-struktur-kapital.png"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2401,6 +2401,8 @@ d-appendix d-footnote-list a.footnote-backlink {
 }</style>
 <!--/radix_placeholder_distill-->
   <script src="../../site_libs/header-attrs-2.13/header-attrs.js"></script>
+  <script src="../../site_libs/kePrint-0.0.1/kePrint.js"></script>
+  <link href="../../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
   <script src="../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
@@ -2514,53 +2516,75 @@ meskipun ukuran ekonomi perusahaan berbeda.</li>
 <li>Rasio keuangan dapat digunakan untuk menjawab pertanyaan-pertanyaan
 berikut:</li>
 </ul>
-<table>
-<colgroup>
-<col style="width: 68%" />
-<col style="width: 31%" />
-</colgroup>
+<div class="layout-chunk" data-layout="l-body">
+<table class=" lightable-paper lightable-hover" style='font-family: "Arial Narrow", arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;'>
 <thead>
-<tr class="header">
-<th>Pertanyaan</th>
-<th>Rasio yang dapat dipakai untuk menjawab</th>
+<tr>
+<th style="text-align:left;">
+Pertanyaan
+</th>
+<th style="text-align:left;">
+Rasio yang dapat dipakai untuk menjawab
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td>1. Seberapa likuid perusahaan? Bisakah perusahaan membayar tagihan
-yang jatuh tempo?</td>
-<td>Rasio Likuiditas</td>
+<tr>
+<td style="text-align:left;">
+<ol type="1">
+<li>Seberapa likuid perusahaan? Bisakah perusahaan membayar tagihan yang
+jatuh tempo?
+</td>
+<td style="text-align:left;">
+Rasio Likuiditas
+</td>
 </tr>
-<tr class="even">
-<td>2. Bagaimana perusahaan mendanai pembelian aset-asetnya?</td>
-<td>Capital structure ratios</td>
+<tr>
+<td style="text-align:left;">
+<ol start="2" type="1">
+<li>Bagaimana perusahaan mendanai pembelian aset-asetnya?
+</td>
+<td style="text-align:left;">
+Capital structure ratios
+</td>
 </tr>
-<tr class="odd">
-<td>3. Seberapa efisien perusahaan dalam menggunakan asetnya untuk
-menciptakan penjualan?</td>
-<td>Asset management efficiency ratios</td>
+<tr>
+<td style="text-align:left;">
+<ol start="3" type="1">
+<li>Seberapa efisien perusahaan dalam menggunakan asetnya untuk
+menciptakan penjualan?
+</td>
+<td style="text-align:left;">
+Asset management efficiency ratios
+</td>
 </tr>
-<tr class="even">
-<td>4. Apakah perusahaan mendapatkan pengembalian investasi yang
-cukup?</td>
-<td>Profitability ratios</td>
+<tr>
+<td style="text-align:left;">
+<ol start="4" type="1">
+<li>Apakah perusahaan mendapatkan pengembalian investasi yang cukup?
+</td>
+<td style="text-align:left;">
+Profitability ratios
+</td>
 </tr>
-<tr class="odd">
-<td>5. Apakah manajer perusahaan menciptakan nilai bagi pemegang
-saham?</td>
-<td>Market value ratios</td>
+<tr>
+<td style="text-align:left;">
+<ol start="5" type="1">
+<li>Apakah manajer perusahaan menciptakan nilai bagi pemegang saham?
+</td>
+<td style="text-align:left;">
+Market value ratios
+</td>
 </tr>
 </tbody>
-</table>
+</table></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
+</div>
 <p><code>Sumber: Titman, Sheridan, Arthur J. Keown, dan John D. Martin (2021)</code></p>
-<h3 id="jenis-rasio-keuangan">5 jenis rasio keuangan:</h3>
-<ul>
-<li>Rasio Likuiditas</li>
-<li>Rasio struktur kapital (<em>Capital Structure Ratios</em>)</li>
-<li>Asset Management Efficiency Ratios</li>
-<li>Profitability Ratios</li>
-<li>Market Value Ratios</li>
-</ul>
 <hr />
 <h3 id="rasio-likuiditas-liquidity-ratio">1. Rasio Likuiditas
 (<em>Liquidity Ratio</em>)</h3>
