@@ -1,0 +1,6 @@
+Pertanyaan Rasio yang dapat dipakai untuk menjawab 
+1. Seberapa likuid perusahaan? Bisakah perusahaan membayar tagihan yang jatuh tempo?	Rasio Likuiditas                     
+2. Bagaimana perusahaan mendanai pembelian aset-asetnya?	Capital structure ratios
+3. Seberapa efisien perusahaan dalam menggunakan asetnya untuk menciptakan penjualan?	Asset management efficiency ratios 
+4. Apakah perusahaan mendapatkan pengembalian investasi yang cukup?	Profitability ratios
+5. Apakah manajer perusahaan menciptakan nilai bagi pemegang saham?	Market value ratios
