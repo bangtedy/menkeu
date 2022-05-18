@@ -101,12 +101,5 @@ Laporan Arus Kas digunakan oleh perusahaan untuk menjelaskan perubahan dalam ner
 
 -- > Lihat contoh neraca perusahaan PIMAGRI
 
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/menkeu" data-a2a-title="Memahami Laporan Keuangan">
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_telegram"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
 
 
