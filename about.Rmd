@@ -1,5 +1,7 @@
 ---
 title: "Manajemen Keuangan"
+description: |
+  Sekilas Tentang Manajemen Keuangan
 ---
 
 ```{r setup, include=FALSE}

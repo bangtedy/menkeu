@@ -4,5 +4,3 @@ site: distill::distill_website
 listing: posts
 creative_commons: CC BY
 ---
-
-

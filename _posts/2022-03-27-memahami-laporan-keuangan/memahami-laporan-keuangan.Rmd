@@ -1,0 +1,98 @@
+---
+title: Memahami Laporan Keuangan
+description: |
+  Tiga Laporan Keuangan Pokok.
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+    orcid_id: 0000-0002-7296-4357
+date: '2022-03-27'
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Tujuan pembelajaran
+
+Setelah mempelajari materi ini mahasiswa seharusnya dapat:
+
+1. Menjelaskan isi dari tiga laporan keuangan pokok dan mendiskusikan pentingnya analisis laporan keuangan bagi manajer keuangan.
+2. Mengevaluasi profitabilitas perusahaan dengan menggunakan laporan rugi laba.
+3. Menggunakan neraca untuk menjelaskan investasi perusahaan dalam bentuk aset dan pendanaannya.
+4. Mengidentifikasi sumber dan penggunaan kas oleh perusahaan berdasarkan laporan arus kas.
+
+---
+
+### Laporan Keuangan Pokok
+
+Tiga laporan keuangan pokok:
+
+1. Laporan rugi/laba (*Income statement*)
+2. Neraca (*Balance sheet*)
+3. Laporan Arus Kas (*Cash flow statement*)
+
+---
+
+### Tiga laporan keuangan pokok:
+
+1. Laporan Rugi Laba: menunjukkan laba atau rugi yang diperoleh perusahaan dalam periode waktu tertentu (misalnya satu tahun atau perkwartal):
+
+- Laba (atau rugi) = Penghasilan dari penjualan - biaya dan ongkos.
+
+2. Neraca: menunjukkan posisi kekayaan perusahaan, kewajiban keuangan, dan ekuitas perusahaan pada waktu tertentu. 
+
+- Kekayaan disajikan pada sisi aktiva, sedangkan kewajiban dan modal sendiri pada sisi pasiva. Pada neraca kita lihat bahwa:
+
+  - Kekayaan = kewajiban + modal sendiri
+
+- Kekayaan: semua yang bernilai yang dimiliki perusahaan,
+- Kewajiban (*Liabilities*): hutang-hutang perusahaan,
+- Ekuitas/modal sendiri: uang yang diinvestasikan oleh pemilik perusahaan. 
+
+3. Laporan Arus Kas
+
+-  laporan yang  menyajikan informasi tentang kas yang diterima dan yang dikeluarkan oleh perusahaan dalam suatu periode. 
+
+---
+
+### Laporan rugi laba
+
+Laporan rugi laba berisikan hal-hal berikut:
+
+- Penerimaan
+- Biaya-biaya
+  - Cost of goods sold, selling expenses, General and administrative expense, depreciation & amortization expense, Interest expense, and  Income tax expense
+Net Income
+- Selisih antara penerimaan dan biaya
+
+--> Lihat contoh laporan rugi laba perusahaan PIMAGRI
+
+---
+
+### Necara
+
+- Necara menyajikan data snapshot dari posisi keuangan perusahaan pada tanggal tertentu.
+Hal ini didefinisikan melalui persamaan:
+
+  - Total Assets = Total Liabilities + Total Shareholders Equity
+
+- Total liabilities menggambarkan jumlah uang yang harus dibayarkan perusahaan kepada kreditor.
+
+- Total shareholders’ equity mengacu pada perbedaan dalam nilai total aset perusahaan dan total kewajibannya.
+
+- Total assets, penjumlahan dari total ekuitas pemilik dan total kewajiban, yang menggambarkan sumber-sumber daya yang dimiliki perusahaan.
+
+-- > Lihat contoh neraca perusahaan PIMAGRI
+
+---
+
+### Laporan Arus Kas (*The Cash Flow Statement*)
+
+Laporan Arus Kas digunakan oleh perusahaan untuk menjelaskan perubahan dalam neraca kas selama periode tertentu dengan mengidentifikasi semua sumber penerimaan dan penggunaan kas. 
+
+-- > Lihat contoh neraca perusahaan PIMAGRI
+

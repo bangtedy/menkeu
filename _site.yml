@@ -1,25 +1,22 @@
-name: "source-for-distill"
+name: "mk"
 title: "Manajemen Keuangan"
 description: |
-  Silabus dan Materi Manajemen Keuangan
+  Materi Matkul Manajemen Keuangan
 author:
   - first_name: "Tedy"
     last_name: "Herlambang"
     url: https://github.com/bangtedy
     affiliation: 
     orcid_id: 0000-0002-7296-4357
-base_url: https://bangtedy.github.io/menkeu
+base_url: https://bangtedy.github.io/etan
 output_dir: "docs"
-
 collections:
   posts:
     share: [twitter, facebook, linkedin]
-
 theme: theme.css
-
 twitter:
-  creator: "@t_hlb"
-repository_url: https://github.com/bangtedy/menkeu
+  site: "@t_hlb"
+repository_url: https://github.com/bangtedy/etan
 navbar:
   right:
     - text: "Sekilas"

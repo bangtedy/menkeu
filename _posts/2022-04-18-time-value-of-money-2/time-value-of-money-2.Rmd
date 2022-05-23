@@ -1,0 +1,27 @@
+---
+title: Time Value of Money (2)
+description: |
+  Nilai Waktu Uang
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+    orcid_id: 0000-0002-7296-4357
+date: '2022-04-18'
+output:
+  distill::distill_article:
+    self_contained: false
+preview: timeismoney2.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Tujuan Pembelajaran
+
+Setelah mempelajari materi ini, Mahasiswa diharapkan dapat:
+
+- Menjelaskan dan membedakan berbagai anuitas dan menghitung nilai sekarang serta future valuenya.
+
+- Menjelaskan dan menghitung nilai sekarang dan future value dari aliran kas yang kompleks.
+

@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://bangtedy.github.io/menkeu/about.html</loc>
-    <lastmod>2022-03-25T05:42:42+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/about.html</loc>
+    <lastmod>2022-05-24T04:47:33+07:00</lastmod>
   </url>
   <url>
-    <loc>https://bangtedy.github.io/menkeu/</loc>
-    <lastmod>2022-03-25T05:43:32+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/</loc>
+    <lastmod>2022-05-24T04:43:31+07:00</lastmod>
   </url>
   <url>
-    <loc>https://bangtedy.github.io/menkeu/posts/minggu-4/</loc>
-    <lastmod>2022-05-19T06:24:28+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/posts/2022-04-18-time-value-of-money-2/</loc>
+    <lastmod>2022-05-24T05:21:39+07:00</lastmod>
   </url>
   <url>
-    <loc>https://bangtedy.github.io/menkeu/posts/minggu-3/</loc>
-    <lastmod>2022-05-19T06:23:52+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/posts/2022-04-11-time-value-of-money-1/</loc>
+    <lastmod>2022-05-24T05:22:52+07:00</lastmod>
   </url>
   <url>
-    <loc>https://bangtedy.github.io/menkeu/posts/minggu-2/</loc>
-    <lastmod>2022-05-19T06:23:23+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/posts/2022-04-04-analisis-laporan-keuangan/</loc>
+    <lastmod>2022-05-24T05:13:50+07:00</lastmod>
   </url>
   <url>
-    <loc>https://bangtedy.github.io/menkeu/posts/minggu-1/</loc>
-    <lastmod>2022-05-19T06:22:39+07:00</lastmod>
+    <loc>https://bangtedy.github.io/etan/posts/2022-03-27-memahami-laporan-keuangan/</loc>
+    <lastmod>2022-05-24T05:05:31+07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bangtedy.github.io/etan/posts/2022-03-14-perusahaan-dan-pasar-keuangan/</loc>
+    <lastmod>2022-05-24T04:57:44+07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bangtedy.github.io/etan/posts/2022-03-07-keuangan-dan-manajemen-keuangan/</loc>
+    <lastmod>2022-05-24T04:54:11+07:00</lastmod>
   </url>
 </urlset>

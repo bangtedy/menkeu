@@ -1,0 +1,29 @@
+---
+title: Time Value of Money (1)
+description: |
+  Nilai Waktu Uang.
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+    orcid_id: 0000-0002-7296-4357
+date: '2022-04-11'
+output:
+  distill::distill_article:
+    self_contained: false
+preview: timeismoney.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Tujuan Pembelajaran
+
+Setelah mempelajari materi ini, Mahasiswa diharapkan dapat:
+
+- Membuat skema arus kas dalam analisis nilai waktu dari uang
+
+- Menjelaskan dan menghitung nilai arus kas masa depan dengan menggunakan rumus matematika dan Excel
+
+- Menjelaskan peranan tentang tingkat bunga dalam penghitungan nilai sekarang
+
