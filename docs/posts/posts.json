@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-06-28-teori-pasar-modal-risiko-dan-pengembalian/",
+    "title": "Teori Pasar Modal",
+    "description": "-Risiko dan Pengembalian.",
+    "author": [
+      {
+        "name": "Tedy Herlambang",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-28",
+    "categories": [],
+    "contents": "\r\nTujuan Pembelajaran\r\nSetelah mempelajari materi ini, Mahasiswa diharapkan dapat:\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-06-28T04:18:04+07:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-04-18-time-value-of-money-2/",
     "title": "Time Value of Money (2)",
     "description": "Nilai Waktu Uang",
@@ -13,7 +30,7 @@
     "categories": [],
     "contents": "\r\nTujuan Pembelajaran\r\nSetelah mempelajari materi ini, Mahasiswa diharapkan dapat:\r\nMenjelaskan dan membedakan berbagai anuitas dan menghitung nilai\r\nsekarang serta future valuenya.\r\nMenjelaskan dan menghitung nilai sekarang dan future value dari\r\naliran kas yang kompleks.\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-04-18-time-value-of-money-2/timeismoney2.png",
-    "last_modified": "2022-05-24T05:21:39+07:00",
+    "last_modified": "2022-06-28T04:16:19+07:00",
     "input_file": {},
     "preview_width": 338,
     "preview_height": 400

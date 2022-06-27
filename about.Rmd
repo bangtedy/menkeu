@@ -39,10 +39,10 @@ ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik 
 * Minggu 8 **UJIAN TENGAH SEMESTER**
 * Minggu 9 Valuasi Hutang dan Suku Bunga
 * Minggu 10 Valuasi Saham
-* Minggu 11 Kriteria Keputuasan Investasi
+* Minggu 11 Kriteria Keputusan Investasi
 * Minggu 12 Analisis Arus Kas
 * Minggu 13 Analisis Risiko dan Evaluasi Proyek
-* Minggu 14 Biaya Model
+* Minggu 14 Biaya Modal
 * Minggu 15 Peramalan dan Perencanaan Keuangan
 * Minggu 16 **UJIAN AKHIR SEMESTER**
 
